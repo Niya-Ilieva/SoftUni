@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.exe
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.deps.json
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.runtimeconfig.json
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.runtimeconfig.dev.json
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.dll
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\bin\Debug\netcoreapp3.1\SumMatrixColums.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.AssemblyInfo.cs
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.dll
+C:\Users\User\source\repos\MultidimensionalArrays\SumMatrixColums\obj\Debug\netcoreapp3.1\SumMatrixColums.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\bin\Debug\netcoreapp3.1\2x2SquareInMatrix.exe
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\bin\Debug\netcoreapp3.1\2x2SquareInMatrix.deps.json
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\bin\Debug\netcoreapp3.1\2x2SquareInMatrix.runtimeconfig.json
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\bin\Debug\netcoreapp3.1\2x2SquareInMatrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\bin\Debug\netcoreapp3.1\2x2SquareInMatrix.dll
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\bin\Debug\netcoreapp3.1\2x2SquareInMatrix.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\obj\Debug\netcoreapp3.1\2x2SquareInMatrix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\obj\Debug\netcoreapp3.1\2x2SquareInMatrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\obj\Debug\netcoreapp3.1\2x2SquareInMatrix.AssemblyInfo.cs
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\obj\Debug\netcoreapp3.1\2x2SquareInMatrix.dll
+C:\Users\User\source\repos\MultidimensionalArrays\2x2SquareInMatrix\obj\Debug\netcoreapp3.1\2x2SquareInMatrix.pdb

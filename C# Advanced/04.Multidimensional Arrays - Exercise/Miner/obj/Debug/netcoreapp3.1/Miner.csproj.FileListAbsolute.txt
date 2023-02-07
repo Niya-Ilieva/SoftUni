@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.exe
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.deps.json
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.json
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.dev.json
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.dll
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\bin\Debug\netcoreapp3.1\Miner.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfo.cs
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.dll
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\Miner\obj\Debug\netcoreapp3.1\Miner.csprojAssemblyReference.cache

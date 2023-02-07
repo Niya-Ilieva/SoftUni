@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+C:\Users\User\source\repos\MultidimensionalArrays\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
