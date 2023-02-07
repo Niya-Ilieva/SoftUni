@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\BasicQueueOperations.exe
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\BasicQueueOperations.deps.json
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.json
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\bin\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\BasicQueueOperations.dll
+C:\Users\User\source\repos\StackAndQueuesPreperations\Problem 2. Basic Queue Operations\obj\Debug\netcoreapp3.1\BasicQueueOperations.pdb

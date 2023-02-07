@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.exe
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.deps.json
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.runtimeconfig.json
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.runtimeconfig.dev.json
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.dll
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\bin\Debug\netcoreapp3.1\HotPotato.pdb
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.AssemblyInfo.cs
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.dll
+C:\Users\User\source\repos\StacksAndQueues\HotPotato\obj\Debug\netcoreapp3.1\HotPotato.pdb

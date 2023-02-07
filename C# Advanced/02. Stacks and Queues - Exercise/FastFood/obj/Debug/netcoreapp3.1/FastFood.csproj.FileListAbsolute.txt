@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\bin\Debug\netcoreapp3.1\FastFood.exe
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\bin\Debug\netcoreapp3.1\FastFood.deps.json
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.json
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.dev.json
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\bin\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\bin\Debug\netcoreapp3.1\FastFood.pdb
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\obj\Debug\netcoreapp3.1\FastFood.csprojAssemblyReference.cache
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfo.cs
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\obj\Debug\netcoreapp3.1\FastFood.dll
+C:\Users\User\source\repos\StackAndQueuesPreperations\FastFood\obj\Debug\netcoreapp3.1\FastFood.pdb
